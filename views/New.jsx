@@ -18,4 +18,4 @@ class New extends React.Component {
     }
 }
 
-module.exports = New
+module.exports = New 
